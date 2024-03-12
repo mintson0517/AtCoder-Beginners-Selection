@@ -2,7 +2,7 @@
 
 int main() {
     int a, b, c;
-    char s[101];
+    char s[100];
 
     // 整数 a, b, c を入力
     scanf("%d%d%d", &a, &b, &c);
