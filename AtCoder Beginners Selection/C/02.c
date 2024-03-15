@@ -1,3 +1,8 @@
+/*
+ *AtCoder(ABC086A – Product ) 
+ *This code calculates the product of two integers and determines if it is even or odd.
+ *(c)2024,Mintson Code
+*/
 #include <stdio.h>
 
 int main() {
