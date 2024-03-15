@@ -1,5 +1,5 @@
 /*
- *AtCoder(ABC086A – Product) 
+ *AtCoder(PracticeA – Welcome to AtCoder) 
  *This code reads three integers and a string, calculates their sum, and prints the result along with the string.
  *(c)2024,Mintson Code
 */
