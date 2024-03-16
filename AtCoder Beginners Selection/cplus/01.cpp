@@ -12,7 +12,7 @@ int main() {
     std::cin >> s;
 
     // 合計と文字列を表示
-    std::cout << (a+b+c) << " " << s << std::endl ;
+    std::cout << ( a + b + c ) << " " << s << std::endl ;
 
     return 0;
 }
